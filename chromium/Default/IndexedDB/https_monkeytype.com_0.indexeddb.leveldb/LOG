@@ -1,6 +1,0 @@
-2025/02/02-02:35:06.130 887 Creating DB /home/marwan/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb since it was missing.
-2025/02/02-02:35:06.134 887 Reusing MANIFEST /home/marwan/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/02-02:35:06.202 892 Level-0 table #5: started
-2025/02/02-02:35:06.205 892 Level-0 table #5: 1269 bytes OK
-2025/02/02-02:35:06.207 892 Delete type=0 #3
-2025/02/02-02:35:06.208 887 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

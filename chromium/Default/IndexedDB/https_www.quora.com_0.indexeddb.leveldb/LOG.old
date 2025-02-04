@@ -1,6 +1,0 @@
-2025/02/04-02:46:16.548 5b75 Creating DB /home/marwan/.config/chromium/Default/IndexedDB/https_www.quora.com_0.indexeddb.leveldb since it was missing.
-2025/02/04-02:46:16.556 5b75 Reusing MANIFEST /home/marwan/.config/chromium/Default/IndexedDB/https_www.quora.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/04-02:46:23.204 5b76 Level-0 table #5: started
-2025/02/04-02:46:23.207 5b76 Level-0 table #5: 3444 bytes OK
-2025/02/04-02:46:23.210 5b76 Delete type=0 #3
-2025/02/04-02:46:23.211 5b76 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
