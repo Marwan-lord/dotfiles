@@ -1,0 +1,12 @@
+2025/02/04-11:13:09.043 916 Reusing MANIFEST /home/marwan/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/04-11:13:09.044 916 Recovering log #45
+2025/02/04-11:13:09.055 916 Reusing old log /home/marwan/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000045.log 
+2025/02/04-11:44:40.412 917 Level-0 table #50: started
+2025/02/04-11:44:40.436 917 Level-0 table #50: 1861879 bytes OK
+2025/02/04-11:44:40.439 917 Delete type=0 #45
+2025/02/04-11:47:15.303 917 Compacting 1@1 + 1@2 files
+2025/02/04-11:47:15.338 917 Generated table #51@1: 396 keys, 61782 bytes
+2025/02/04-11:47:15.338 917 Compacted 1@1 + 1@2 files => 61782 bytes
+2025/02/04-11:47:15.340 917 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/04-11:47:15.340 917 Delete type=2 #47
+2025/02/04-11:47:15.340 917 Delete type=2 #50

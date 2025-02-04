@@ -1,8 +1,8 @@
 * {
-    background: #080808;    /* Very dark gray, almost black */
-    prompt: #1a1a1a;       /* Dark gray */
+    background: #191D24;    /* Very dark gray, almost black */
+    prompt: #2E3440;       /* Dark gray */
     border: #080808;       /* Medium-dark gray */
     text: #ffffff;         /* Pure white */
     stext: #808080;        /* Medium gray */
-    select: #1a1a1a;       /* Dark gray, matching prompt */
+    select: #2E3440;       /* Dark gray, matching prompt */
 }

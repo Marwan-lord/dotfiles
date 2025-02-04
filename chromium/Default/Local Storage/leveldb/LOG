@@ -1,0 +1,12 @@
+2025/02/04-12:14:36.907 4 Reusing MANIFEST /home/marwan/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2025/02/04-12:14:36.921 4 Recovering log #410
+2025/02/04-12:14:36.923 4 Reusing old log /home/marwan/.config/chromium/Default/Local Storage/leveldb/000410.log 
+2025/02/04-12:15:44.619 6 Level-0 table #416: started
+2025/02/04-12:15:44.627 6 Level-0 table #416: 42256 bytes OK
+2025/02/04-12:15:44.633 6 Delete type=0 #410
+2025/02/04-12:22:56.493 6 Level-0 table #418: started
+2025/02/04-12:22:56.500 6 Level-0 table #418: 52156 bytes OK
+2025/02/04-12:22:56.505 6 Delete type=0 #415
+2025/02/04-12:23:19.538 4 Level-0 table #420: started
+2025/02/04-12:23:19.544 4 Level-0 table #420: 66496 bytes OK
+2025/02/04-12:23:19.547 4 Delete type=0 #417

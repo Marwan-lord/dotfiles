@@ -98,7 +98,9 @@
         "on-click-right": "pavucontrol"
     },
   "custom/menu": {
-	"format": "死 ",
+	//"format": "死 ",
+	//"format": "󱄅 ",
+	"format": " " ,
 		"tooltip": false,
 		"menu": "on-click",
 		"menu-file": "$HOME/.config/waybar/power_menu.xml",

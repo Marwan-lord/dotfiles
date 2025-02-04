@@ -1,0 +1,39 @@
+{
+    "hex.builtin.achievement.data_processor": {
+        "hex.builtin.achievement.data_processor.create_connection.name": 0,
+        "hex.builtin.achievement.data_processor.custom_node.name": 0,
+        "hex.builtin.achievement.data_processor.modify_data.name": 0,
+        "hex.builtin.achievement.data_processor.place_node.name": 0
+    },
+    "hex.builtin.achievement.find": {
+        "hex.builtin.achievement.find.find_numeric.name": 0,
+        "hex.builtin.achievement.find.find_specific_string.name": 0,
+        "hex.builtin.achievement.find.find_strings.name": 0
+    },
+    "hex.builtin.achievement.hex_editor": {
+        "hex.builtin.achievement.hex_editor.copy_as.name": 0,
+        "hex.builtin.achievement.hex_editor.create_bookmark.name": 0,
+        "hex.builtin.achievement.hex_editor.create_patch.name": 0,
+        "hex.builtin.achievement.hex_editor.fill.name": 0,
+        "hex.builtin.achievement.hex_editor.modify_byte.name": 0,
+        "hex.builtin.achievement.hex_editor.open_new_view.name": 0,
+        "hex.builtin.achievement.hex_editor.select_byte.name": 0
+    },
+    "hex.builtin.achievement.misc": {
+        "hex.builtin.achievement.misc.analyze_file.name": 0,
+        "hex.builtin.achievement.misc.download_from_store.name": 0,
+        "hex.hashes.achievement.misc.create_hash.name": 0
+    },
+    "hex.builtin.achievement.patterns": {
+        "hex.builtin.achievement.patterns.data_inspector.name": 0,
+        "hex.builtin.achievement.patterns.load_existing.name": 0,
+        "hex.builtin.achievement.patterns.modify_data.name": 0,
+        "hex.builtin.achievement.patterns.place_menu.name": 0
+    },
+    "hex.builtin.achievement.starting_out": {
+        "hex.builtin.achievement.starting_out.crash.name": 0,
+        "hex.builtin.achievement.starting_out.docs.name": 0,
+        "hex.builtin.achievement.starting_out.open_file.name": 1,
+        "hex.builtin.achievement.starting_out.save_project.name": 0
+    }
+}
