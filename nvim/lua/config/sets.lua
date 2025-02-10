@@ -1,3 +1,4 @@
+vim.opt.guicursor = "n-v-i-c:block-Cursor"
 vim.g.localmapleader = " "
 vim.opt.nu = true
 vim.opt.rnu = true

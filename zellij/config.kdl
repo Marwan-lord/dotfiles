@@ -246,7 +246,24 @@ simplified_ui true
 // Choose the theme that is specified in the themes section.
 // Default: default
 // 
-theme "nord"
+
+themes {
+  nordic {
+    bg "#242933"
+    fg "#BBC3D4"
+    white "#ECEFF4"
+    black "#191D24"
+    red "#bf616a"
+    green "#a3be8c"
+    yellow "#ebcb8b"
+    blue "#5e81ac"
+    magenta "#b48ead"
+    cyan "#8fbcbb"
+    orange "#d08770"
+  }
+}
+
+theme "nordic"
  
 // Choose the base input mode of zellij.
 // Default: normal
