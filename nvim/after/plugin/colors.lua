@@ -6,7 +6,7 @@ require('nordic').setup({
     -- This callback can be used to override highlights before they are applied.
     on_highlight = function(highlights, palette) end,
     -- Enable bold keywords.
-    bold_keywords = true,
+    bold_keywords = false,
     -- Enable italic comments.
     italic_comments = true,
     -- Enable editor background transparency.
@@ -31,7 +31,7 @@ require('nordic').setup({
         -- Available styles: 'dark', 'light'.
         theme = 'dark',
         -- Blending the cursorline bg with the buffer bg.
-        blend = 0,
+        blend = 1,
     },
     noice = {
         -- Available styles: `classic`, `flat`.
