@@ -22,6 +22,13 @@ vim.opt.splitright = true
 vim.opt.splitbelow = true
 vim.opt.scrolloff = 10
 
+vim.cmd([[
+  highlight CursorLine guibg=#242933 guifg=NONE
+]])
+
+vim.cmd([[ highlight Visual guifg=NONE guibg=#3b4252]])
+
+
 -- Highlight on Yank
 vim.api.nvim_create_autocmd('TextYankPost', {
   desc = 'Highlight when yanking (copying) text',
