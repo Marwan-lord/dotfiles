@@ -24,6 +24,8 @@ require("awful.hotkeys_popup.keys")
 -- {{{ Error handling
 -- Check if awesome encountered an error during startup and fell back to
 -- another config (This code will only ever execute for the fallback config)
+
+
 if awesome.startup_errors then
     naughty.notify({ preset = naughty.config.presets.critical,
                      title = "Oops, there were errors during startup!",
@@ -94,7 +96,7 @@ myawesomemenu = {
 }
 
 mymainmenu = awful.menu({ items = { { "awesome", myawesomemenu, beautiful.awesome_icon },
-                                    { "open terminal", terminal }
+                                    { "open terminal", terminal },
                                   }
                         })
 
@@ -252,6 +254,9 @@ globalkeys = gears.table.join(
     awful.key({ }, "XF86AudioLowerVolume",  function () awful.spawn("pw-volume change -10%") end ),
     awful.key({ }, "XF86AudioMute",         function () awful.spawn("pw-volume mute on") end ),
 
+
+    awful.key({ }, "XF86AudioMute",         function () awful.spawn("pw-volume mute on") end ),
+
     awful.key({ modkey,           }, "s",      hotkeys_popup.show_help,
               {description="show help", group="awesome"}),
     awful.key({ modkey,           }, "Left",   awful.tag.viewprev,
@@ -303,7 +308,7 @@ globalkeys = gears.table.join(
     awful.key({ modkey,           }, "w", function () awful.spawn("firefox") end,
               {description = "Open the web Browser", group = "launcher"}),
 
-    awful.key({ modkey,           }, "r", function () awful.spawn("zathura") end,
+    awful.key({ modkey,           }, "r", function () awful.spawn("bf") end,
               {description = "Open zathura for reading ", group = "launcher"}),
 
     awful.key({ modkey,    	  }, "e", function () awful.spawn("pcmanfm") end,
